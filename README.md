@@ -73,7 +73,9 @@
 
 |   Assignment   | Date Assigned |   Due Date   | Tutorial | Solution | Point |
 | :------------: | :-----------: | :----------: | :------: | :------: | :---: |
-| [Assignment 1] | 토, 5월 14일  | 목, 5월 19일 |          |          |  10   |
+| [Assignment 1] | 토, 5월 14일  | 목, 5월 19일 |[Video](https://www.loom.com/share/b895da29836645ebb456ca0ac7155012)          |  10   |
+| [Assignment 2] | 금, 5월 20일  | 목, 5월 26일 |          |          |  20   |
+| [Assignment 3] | 금, 5월 27일  | 목, 6월 3일 |          |          |  30   |
 
 ## Class Assignments
 
