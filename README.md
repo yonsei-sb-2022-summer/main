@@ -75,7 +75,9 @@
 | :------------: | :-----------: | :----------: | :------: | :------: | :---: |
 | [Assignment 1] | 토, 5월 14일  | 목, 5월 19일 |[Video](https://www.loom.com/share/b895da29836645ebb456ca0ac7155012)          |  10   |
 | [Assignment 2] | 금, 5월 20일  | 목, 5월 26일 |          |  [Video](https://www.loom.com/share/b6e6cdd4a8c045cc83aa316da182a341)        |  20   |
-| [Assignment 3] | 금, 5월 27일  | 목, 6월 3일 |          |          |  30   |
+| [Assignment 3] | 금, 5월 27일  | 목, 6월 2일 |          | [Video](https://www.loom.com/share/249dd9853b2f4525b3f8e0f80a442294)         |  30   |
+| [Assignment 4] | 금, 6월 4일  | 목, 6월 9일 |          |          |  40   |
+| [Assignment 5] | 금, 6월 10일  | 목, 6월 23일 |          |          |  40   |
 
 ## Class Assignments
 
